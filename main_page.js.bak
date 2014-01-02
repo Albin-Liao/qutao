@@ -1,6 +1,6 @@
 var login = require("common/islogin.js");
 var searchlist = require("common/searchlist.js");
-//dhfhdjkhfjsdhfjsdhjf
+
 module.exports = (function(){
 	login.Login('isLogin.do');
 	searchlist.keyEvent();
